@@ -1,6 +1,6 @@
 # GameOn
 
-Site web de réservation pour événements gaming, entièrement codé from scratch en HTML/CSS/JavaScript.
+Interface d’inscription à des événements gaming, avec formulaire modal, validation JavaScript et messages d’erreur.
 
 ## Comment le démarrer
 
